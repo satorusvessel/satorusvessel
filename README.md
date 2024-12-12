@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://t.me/Ab_munir">
-<a href="https://ibb.co/JmWdhrg"><img src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" alt="vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328" border="0"></a>
+<img src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" 
 </a>
 <a href="https://abdellamunir.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
