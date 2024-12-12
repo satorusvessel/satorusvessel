@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://t.me/Ab_munir">
-  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F26127328-telegram-logo-png-telegram-icon-transparent-png-telegram-icon-rounded&psig=AOvVaw2YiUAMTNFRZIKyj-xVWAn8&ust=1734076443570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDx46XgoYoDFQAAAAAdAAAAABAE)"/>
+  <img height="50" src="https://ibb.co/JmWdhrg"/>
 </a>
 <a href="https://abdellamunir.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
