@@ -1,5 +1,7 @@
 
-<p align="center"><br>  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Helllo%20Everyone&textBg=false)"/><br></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 # 👨🏻‍💻 A little About me and my Intersts:
 ```yaml
