@@ -15,7 +15,7 @@
 <img height="50" src="https://i.ibb.co/LnhrsbM/web.png" alt="web">
 </a>
 <a href="https://www.linkedin.com/in/abdella-munir-4674b4247">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="48" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://wa.me/qr/TRY5G5DDVM4LG1">
 <img height="45" src="https://i.ibb.co/C0nLdHm/whatsapp.png" alt="whatsapp">
