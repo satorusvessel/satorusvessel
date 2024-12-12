@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://t.me/Ab_munir">
-<img height="50" src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" 
+<img height="60" src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" 
 </a>
 <a href="https://abdellamunir.netlify.app/">
 <img height="50" src="https://i.ibb.co/LnhrsbM/web.png" alt="web">
