@@ -12,7 +12,7 @@
 <img height="55" src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" 
 </a>
 <a href="https://abdellamunir.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<img height="55" src="https://i.ibb.co/LnhrsbM/web.png" alt="web">
 </a>
 <a href="https://www.linkedin.com/in/abdella-munir-4674b4247">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
