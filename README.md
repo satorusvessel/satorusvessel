@@ -1,8 +1,42 @@
-# 💫 About Me:
-<p align="center"><br>  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/><br></p>
 
+<p align="center"><br>  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Helllo%20Everyone&textBg=false)"/><br></p>
 
-## 🌐 Socials:
+# 👨🏻‍💻 A little About Me and my Intersts:
+```yaml
+name: Abdella Munir
+located_in: Addis Ababa, Ethiopia
+current_job: Frontend Developer
+education:
+  [
+    "Self-Taught Developer and Video editor",
+    "Bachelor's in Information and systems",
+  ]
+company: OriginTech 
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Mobile Debelopment",
+    "Artificial Intelligence",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Front-end Developer"
+    "Mobile app Developer",
+    "Network Enigineer",
+    "Information Technology Officer",
+    "Security analyst",
+    "Intern - Software Tester",
+  ]
+  
+currently_learning: ["Python, Docker, and Data Science"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Books", "Videograpgy", "AI and language models", "Robotics", "Cinematography"]
+```
+## 🌐 Let us connect on Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdella-munir-4674b42) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdellamun) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23340573) 
 
 # 💻 Tech Stack:
