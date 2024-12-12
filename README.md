@@ -8,6 +8,9 @@
 </h1>
 
 <p align="center">
+<a href="https://t.me/Ab_munir">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F26127328-telegram-logo-png-telegram-icon-transparent-png-telegram-icon-rounded&psig=AOvVaw2YiUAMTNFRZIKyj-xVWAn8&ust=1734076443570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDx46XgoYoDFQAAAAAdAAAAABAE)"/>
+</a>
 <a href="https://abdellamunir.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
@@ -18,11 +21,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 <a href="https://stackoverflow.com/users/23340573">
-  <img height="50" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fstackoverflow%2F62763&psig=AOvVaw1JLzXntvEn2qG4zN9d1DHg&ust=1734076873843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiu1_LhoYoDFQAAAAAdAAAAABAJ"/>
 </a>
-<a href="https://t.me/Ab_munir">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F26127328-telegram-logo-png-telegram-icon-transparent-png-telegram-icon-rounded&psig=AOvVaw2YiUAMTNFRZIKyj-xVWAn8&ust=1734076443570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDx46XgoYoDFQAAAAAdAAAAABAE)"/>
-</a>
+
 <!-- <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a> -->
