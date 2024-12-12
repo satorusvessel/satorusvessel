@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's connect and have a chat!💬
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </a> -->
 </p>
 
-# 👨🏻‍💻 A little About me and my Intersts:
+# 👨🏻‍💻 A little about me and my interests:
 
 ```yaml
 name: Abdella Munir
