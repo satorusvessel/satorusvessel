@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Let's connect and have a chat!💬
+  Let's connect and have a chat! 💬
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <img height="50" align="top" src="https://i.ibb.co/JmWdhrg/vecteezy-telegram-logo-png-telegram-icon-transparent-png-telegram-26127328.png" 
 </a>
 <a href="https://abdellamunir.netlify.app/">
-<img height="45" src="https://i.ibb.co/LnhrsbM/web.png" alt="web">
+<img height="46" src="https://i.ibb.co/LnhrsbM/web.png" alt="web">
 </a>
 <a href="https://www.linkedin.com/in/abdella-munir-4674b4247">
   <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -29,7 +29,7 @@
 </a> -->
 </p>
 
-# 👨🏻‍💻 A little about me and my interests:
+# 👨🏻‍💻 A little about me and my interests :
 
 ```yaml
 name: Abdella Munir
