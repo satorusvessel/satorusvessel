@@ -34,11 +34,11 @@
 ```yaml
 name: Abdella Munir
 located_in: Addis Ababa, Ethiopia
-current_job: Frontend Developer
+current_job: MERN Stack Developer
 education:
   [
-    "Self-Taught Developer and Video editor",
-    "Bachelor's in Information and systems",
+    "Bachelor's in Information and systems-Hawassa University",
+    "Master's in MSIT- South East Florida University",
   ]
 company: OriginTech 
 
@@ -53,6 +53,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "MERN Stack Engineer"
     "Front-end Developer"
     "Mobile app Developer",
     "Network Enigineer",
