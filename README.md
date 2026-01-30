@@ -63,7 +63,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, Docker, and Data Science"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Books", "Videograpgy", "AI and language models", "Robotics", "Cinematography"]
 ```
 
